@@ -1,7 +1,7 @@
 ---
 name: Unconference contribution
 about: Add your contribution to the unconference
-title: Uncoference event
+title: Unconference event
 labels: ''
 assignees: ''
 
