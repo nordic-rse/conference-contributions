@@ -26,7 +26,7 @@ assignees: ''
 - [ ] No
 
 ### Please indicate on which day(s) the contribution can happen (tick both if you don't mind which one):
-- [ ] August 16
-- [ ] August 17
+- [ ] October 18
+- [ ] October 19
 
 ### Give a short description of your contribution:
