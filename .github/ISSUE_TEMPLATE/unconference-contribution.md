@@ -29,4 +29,8 @@ assignees: ''
 - [ ] October 18
 - [ ] October 19
 
+### By submitting a contribution you agree that
+- [ ] Your name and abstract of the contribution will be published in our program
+- [ ] Your contribution respects the [Code of Conduct](https://nordic-rse.org/about/code-of-conduct)
+
 ### Give a short description of your contribution:
